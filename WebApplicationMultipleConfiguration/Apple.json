@@ -1,0 +1,14 @@
+{
+  "Apple": {
+    "name": "Apple",
+    "year": 1976,
+    "staff": 147000,
+    "founders": [
+      "Steve Jobs",
+      "Stephen Wozniak",
+      "Ronald Wayne"
+    ]
+  }
+
+}
+
